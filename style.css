@@ -16,6 +16,11 @@ h3{
     font-size: 17px;
     font-weight: 700;
 }
+p{
+    text-align: justify;
+    font-family: "Helvetica";
+    font-size: 13px;
+}
 .navbar ul{
     list-style-type: none;
     background-color: #0093a5;
@@ -30,7 +35,7 @@ h3{
     padding: 15px;
     display: block;
     text-align: center;
-    font-family: Helvetica;
+    font-family: "Helvetica";
     font-size: 13px;
 
 }
