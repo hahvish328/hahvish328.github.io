@@ -23,7 +23,7 @@ p{
 }
 .navbar ul{
     list-style-type: none;
-    background-color: #a5c8d1;
+    background-color: #0093a5;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -40,7 +40,7 @@ p{
 
 }
 .navbar a:hover{
-    background-color: #0093a5;
+    background-color: #a5c8d1;
 }
 .navbar li{
     float: left;
