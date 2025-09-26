@@ -10,6 +10,7 @@ h1{
     font-family: "Segoe UI";
     font-size: 23px;
     font-weight: 700;
+    color: white;
 }
 h3{
     text-align: center;
@@ -28,7 +29,19 @@ p{
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-
+}
+.content a{
+    padding: 0.6em 3em 0.6em 3em;
+    border: 2px solid black;
+    border-radius: 40px;
+    text-decoration: none;
+    color: black;
+    font-family: "Helvetica";
+    font-size: 13px;
+}
+.content a:hover{
+    background-color: #d958b5;
+    transition: 0.3s;
 }
 .navbar a{
     color: white;
@@ -42,6 +55,7 @@ p{
 }
 .navbar a:hover{
     background-color: #a5c8d1;
+    transition: 0.3s;
 }
 .navbar li{
     float: left;
