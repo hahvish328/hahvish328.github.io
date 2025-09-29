@@ -21,8 +21,13 @@ h1{
 img{
     width: 800px;
     height: auto;
-    box-align: center;
     border: black 2px solid;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 figcaption{
     text-align: center;
@@ -84,4 +89,3 @@ p{
 .navbar li{
     float: left;
 }
-
